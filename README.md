@@ -4,3 +4,4 @@ a investor in the blockchain
 love many projects
 especially defi
 as arbitrum
+optimism
