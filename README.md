@@ -5,3 +5,4 @@ love many projects
 especially defi
 as arbitrum
 optimism
+zk-sync
