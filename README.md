@@ -6,3 +6,4 @@ especially defi
 as arbitrum
 optimism
 zk-sync
+starknet
