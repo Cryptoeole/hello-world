@@ -7,3 +7,4 @@ as arbitrum
 optimism
 zk-sync
 starknet
+linea
