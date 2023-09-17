@@ -8,3 +8,4 @@ optimism
 zk-sync
 starknet
 linea
+base
