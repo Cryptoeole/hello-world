@@ -9,3 +9,4 @@ zk-sync
 starknet
 linea
 base
+celo
