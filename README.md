@@ -10,3 +10,4 @@ starknet
 linea
 base
 celo
+zora
