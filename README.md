@@ -12,3 +12,4 @@ base
 celo
 zora
 polygon
+avax
