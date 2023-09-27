@@ -13,3 +13,4 @@ celo
 zora
 polygon
 avax
+fantom
