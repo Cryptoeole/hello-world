@@ -14,3 +14,4 @@ zora
 polygon
 avax
 fantom
+venom
