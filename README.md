@@ -15,3 +15,4 @@ polygon
 avax
 fantom
 venom
+kava
