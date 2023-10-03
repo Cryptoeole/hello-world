@@ -16,3 +16,4 @@ avax
 fantom
 venom
 kava
+sui
