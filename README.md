@@ -17,3 +17,4 @@ fantom
 venom
 kava
 sui
+bsc
