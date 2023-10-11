@@ -20,3 +20,4 @@ sui
 bsc
 and a lot of application too
 as synthetix
+GMX
