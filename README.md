@@ -23,3 +23,4 @@ as synthetix
 GMX
 radiant
 velodrome
+pancakeswap
