@@ -24,3 +24,4 @@ GMX
 radiant
 velodrome
 pancakeswap
+uniswap
