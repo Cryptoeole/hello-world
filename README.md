@@ -25,3 +25,4 @@ radiant
 velodrome
 pancakeswap
 uniswap
+vela
