@@ -26,3 +26,4 @@ velodrome
 pancakeswap
 uniswap
 vela
+lido
