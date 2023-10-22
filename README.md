@@ -27,3 +27,4 @@ pancakeswap
 uniswap
 vela
 lido
+rocket pool
