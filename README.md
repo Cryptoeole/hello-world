@@ -28,3 +28,4 @@ uniswap
 vela
 lido
 rocket pool
+frax
