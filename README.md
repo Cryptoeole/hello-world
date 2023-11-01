@@ -29,3 +29,4 @@ vela
 lido
 rocket pool
 frax
+ekubo
