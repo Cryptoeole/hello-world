@@ -30,3 +30,4 @@ lido
 rocket pool
 frax
 ekubo
+syncswap
