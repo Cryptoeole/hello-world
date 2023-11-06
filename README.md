@@ -31,3 +31,4 @@ rocket pool
 frax
 ekubo
 syncswap
+sushiswap
