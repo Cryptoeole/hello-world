@@ -32,3 +32,4 @@ frax
 ekubo
 syncswap
 sushiswap
+stargate
