@@ -33,3 +33,4 @@ ekubo
 syncswap
 sushiswap
 stargate
+balancer
