@@ -34,3 +34,4 @@ syncswap
 sushiswap
 stargate
 balancer
+curve
