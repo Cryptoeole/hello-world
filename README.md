@@ -35,3 +35,4 @@ sushiswap
 stargate
 balancer
 curve
+beefy
