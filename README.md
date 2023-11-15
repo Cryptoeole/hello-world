@@ -36,3 +36,4 @@ stargate
 balancer
 curve
 beefy
+defilama
