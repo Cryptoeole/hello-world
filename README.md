@@ -37,3 +37,4 @@ balancer
 curve
 beefy
 defilama
+alpaca
