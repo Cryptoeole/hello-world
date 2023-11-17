@@ -38,3 +38,4 @@ curve
 beefy
 defilama
 alpaca
+velodrome
