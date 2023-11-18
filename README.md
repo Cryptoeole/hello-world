@@ -39,3 +39,4 @@ beefy
 defilama
 alpaca
 velodrome
+avnu
