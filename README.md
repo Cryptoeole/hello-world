@@ -40,3 +40,4 @@ defilama
 alpaca
 velodrome
 avnu
+dydx
