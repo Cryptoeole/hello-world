@@ -41,3 +41,4 @@ alpaca
 velodrome
 avnu
 dydx
+zklend
