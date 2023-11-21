@@ -42,3 +42,4 @@ velodrome
 avnu
 dydx
 zklend
+aave
