@@ -43,3 +43,4 @@ avnu
 dydx
 zklend
 aave
+kyberswap
