@@ -45,3 +45,4 @@ zklend
 aave
 kyberswap
 velocore
+xfai
