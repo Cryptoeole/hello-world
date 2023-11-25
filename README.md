@@ -46,3 +46,4 @@ aave
 kyberswap
 velocore
 xfai
+justlend
