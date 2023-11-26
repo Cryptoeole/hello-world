@@ -47,3 +47,4 @@ kyberswap
 velocore
 xfai
 justlend
+maker
