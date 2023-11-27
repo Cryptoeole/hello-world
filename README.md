@@ -48,3 +48,4 @@ velocore
 xfai
 justlend
 maker
+symbiosis
