@@ -54,3 +54,4 @@ orbiter
 joe
 defilama
 summer.fi
+izumi finance
