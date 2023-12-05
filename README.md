@@ -56,3 +56,4 @@ defilama
 summer.fi
 izumi finance
 yearn finance
+layerbank
