@@ -58,3 +58,4 @@ izumi finance
 yearn finance
 layerbank
 plutus
+excalibur
