@@ -59,3 +59,4 @@ yearn finance
 layerbank
 plutus
 excalibur
+jupiter
