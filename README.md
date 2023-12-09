@@ -60,3 +60,4 @@ layerbank
 plutus
 excalibur
 jupiter
+metavault
