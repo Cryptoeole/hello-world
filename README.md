@@ -62,3 +62,4 @@ excalibur
 jupiter
 metavault
 meta
+camelot
