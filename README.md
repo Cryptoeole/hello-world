@@ -65,3 +65,4 @@ meta
 camelot
 layerswap
 margin fi
+kamino finance
