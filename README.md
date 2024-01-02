@@ -66,3 +66,4 @@ camelot
 layerswap
 margin fi
 kamino finance
+aerodrome
