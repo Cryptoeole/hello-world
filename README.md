@@ -67,3 +67,4 @@ layerswap
 margin fi
 kamino finance
 aerodrome
+seamless
