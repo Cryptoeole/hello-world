@@ -68,3 +68,4 @@ margin fi
 kamino finance
 aerodrome
 seamless
+hyperliquid
