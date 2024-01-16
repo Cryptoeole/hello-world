@@ -69,3 +69,4 @@ kamino finance
 aerodrome
 seamless
 hyperliquid
+aevo
