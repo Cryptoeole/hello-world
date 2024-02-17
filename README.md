@@ -70,3 +70,4 @@ aerodrome
 seamless
 hyperliquid
 aevo
+zerolend
