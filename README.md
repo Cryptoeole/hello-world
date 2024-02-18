@@ -71,3 +71,4 @@ seamless
 hyperliquid
 aevo
 zerolend
+nostra
