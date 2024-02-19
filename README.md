@@ -72,3 +72,4 @@ hyperliquid
 aevo
 zerolend
 nostra
+zklend
