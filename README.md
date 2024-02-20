@@ -73,3 +73,4 @@ aevo
 zerolend
 nostra
 zklend
+myswap
