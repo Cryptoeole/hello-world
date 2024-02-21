@@ -74,3 +74,4 @@ zerolend
 nostra
 zklend
 myswap
+jedisway
