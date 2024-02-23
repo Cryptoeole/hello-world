@@ -75,3 +75,4 @@ nostra
 zklend
 myswap
 jediswap
+meteora
