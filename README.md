@@ -76,3 +76,4 @@ zklend
 myswap
 jediswap
 meteora
+parcl
