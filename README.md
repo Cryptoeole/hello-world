@@ -77,3 +77,4 @@ myswap
 jediswap
 meteora
 parcl
+kinza finance
