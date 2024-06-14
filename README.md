@@ -78,3 +78,4 @@ jediswap
 meteora
 parcl
 kinza finance
+linea
