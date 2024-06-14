@@ -79,3 +79,4 @@ meteora
 parcl
 kinza finance
 linea
+blast
