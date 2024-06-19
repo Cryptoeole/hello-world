@@ -81,3 +81,4 @@ kinza finance
 linea
 blast
 mode
+scroll
