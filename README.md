@@ -82,3 +82,4 @@ linea
 blast
 mode
 scroll
+taiko
