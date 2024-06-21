@@ -83,3 +83,4 @@ blast
 mode
 scroll
 taiko
+zksync
