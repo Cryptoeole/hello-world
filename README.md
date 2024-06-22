@@ -84,3 +84,4 @@ mode
 scroll
 taiko
 zksync
+karac
