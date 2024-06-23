@@ -85,3 +85,4 @@ scroll
 taiko
 zksync
 karac
+merlin
