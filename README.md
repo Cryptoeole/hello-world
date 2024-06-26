@@ -86,3 +86,4 @@ taiko
 zksync
 karac
 merlin
+scroll
