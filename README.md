@@ -87,3 +87,4 @@ zksync
 karac
 merlin
 scroll
+eth
