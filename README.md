@@ -88,3 +88,4 @@ karac
 merlin
 scroll
 eth
+btc
