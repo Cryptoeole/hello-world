@@ -89,3 +89,4 @@ merlin
 scroll
 eth
 btc
+sol
